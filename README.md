@@ -10,4 +10,4 @@ These are simple while learning pyhton basics.
   Here, we use while loop an if-else statements.
   4. Level Up:- This is the modified form of car game program. In this some changes are made so that when once the start instruction is given then the next time it should give the
   output as (Car already started.), similarly for stop instruction.
-  Here, we use while loop and if-else statements and bool.
+  Here, we use while loop and if-else statements ,bool.
